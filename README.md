@@ -22,6 +22,7 @@ This project demonstrates the implementation of a web server using the ESP32 mic
 ## Software Used
 - Arduino IDE
 - Wokwi simulator
+- Wi-Fi Library
 
 ## Applications
 - Home Automation
